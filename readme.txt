@@ -14,3 +14,4 @@ column 1) the trade's timestamp, column 2) the price, column 3) the volume of th
 
 
 注: 将.btctradeCNY.csv解压到test_demo同级目录运行,不然报错找不到文件!!!
+    使用python版本为:3.6
