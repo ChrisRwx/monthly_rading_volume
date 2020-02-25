@@ -11,3 +11,6 @@ column 1) the trade's timestamp, column 2) the price, column 3) the volume of th
 3.画出交易量最大月份得价格曲线图(可以使用matplotlib）
 
 最好是以Jupyter notebook的形式提交代码， 如果不熟悉也可将代码提交到github之后把链接给我。
+
+
+注: 将.btctradeCNY.csv解压到test_demo同级目录运行,不然报错找不到文件!!!
